@@ -1,0 +1,12 @@
+{
+  "name": "webflyx",
+  "version": "1.0.0",
+  "description": "test github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Thử nghiệm github actions thành công\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
